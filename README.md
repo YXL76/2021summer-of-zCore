@@ -14,8 +14,9 @@
    4. 实际运行 zCore
 2. 驱动
    1. 学习[virtio-drivers](https://github.com/rcore-os/virtio-drivers)
-   2. 在 zCore 中添加驱动
-   3. 添加相应的 syscall
+   2. [rCore Tutorial 驱动程序](https://rcore-os.github.io/rCore-Tutorial-Book-v3/chapter8/2device-driver-2.html)
+   3. 在 zCore 中添加驱动
+   4. 添加相应的 syscall
 
 ## 参考信息
 
