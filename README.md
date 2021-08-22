@@ -22,3 +22,4 @@
 
 - [The Adventures of OS: Making a RISC-V Operating System using Rust OS](https://osblog.stephenmarz.com/) 教程-有基于 QEMU 的 framebuffer 图形驱动和应用
 - [TisuOS](https://gitee.com/belowthetree/tisu-os) 中国海洋大学大四学生张根实现的一个带图形界面的 Rust OS on RV
+- [snakeos](https://github.com/trusch/snakeos/)一个有snake game图形游戏的rust os
